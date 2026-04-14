@@ -1,6 +1,6 @@
 **Project Title**
 
-[Enter your project name here]
+Team ELEVATOR
 
 **📌 Project Overview**
 
@@ -28,4 +28,4 @@ Media → Weekly progress and final output
 
 
 **👥 Team Members**
-[Name]
+Samruddhi and Kavya
